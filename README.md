@@ -75,4 +75,6 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+Video Link - [![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/omylt3E9Z1E))
+
 
