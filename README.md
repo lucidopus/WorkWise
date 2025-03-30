@@ -66,6 +66,8 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 ### **API Endpoints**
 
+#### **API BASE:** : https://3319-2601-8c-4e80-ab40-585-a716-4667-7848.ngrok-free.app
+
 #### **/get_response (POST)**
 - Description: Processes the user's query and provides career-related insights along with any relevant visualizations.
 
