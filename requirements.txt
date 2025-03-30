@@ -1,0 +1,17 @@
+plotly==5.24.1
+numpy==2.2.2
+matplotlib==3.10.0
+pandas==2.2.3
+python-dotenv==1.1.0
+langchain==0.3.21
+langchain-community==0.3.20
+langchain-core==0.3.49
+langchain-groq==0.3.1
+langchain-tavily==0.1.5
+langchain-text-splitters==0.3.7
+langsmith==0.3.19
+fastapi==0.115.12
+uvicorn==0.34.0
+Jinja2==3.1.6
+plotly==25.0.1
+nbformat==5.10.4 
