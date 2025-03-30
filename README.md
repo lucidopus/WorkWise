@@ -1,7 +1,7 @@
 # **WorkWise AI**  
 ## **Team: The Backpropagators**
 
-**Members:** Harshil Patel, Tanishq Jain, Priyank Shah
+#### **Members:** Harshil Patel, Tanishq Jain and Priyank Shah
 
 ## **Project Overview**
 In 2025, the world of AI agents is evolving, and we wanted to align our hackathon project with the latest trends. Inspired by ADP's requirement to build an AI-powered career guide, we present **WorkWise AI**—a **ReACT Agent**-based solution that can dynamically analyze real-time data based on the user's queries. The AI system aims to answer career-related questions, visualize compensation trends, and guide users with up-to-date, actionable insights.  
