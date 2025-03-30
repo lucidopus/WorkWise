@@ -76,6 +76,6 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Video Link :
-[<img src="https://youtu.be/omylt3E9Z1E" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U] "Now in Android: 55")
+    <iframe style="border:none;width:100%;height:100%;" src="[https://www.youtube.com/embed/VIDEO_I](https://youtu.be/omylt3E9Z1E)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
