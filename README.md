@@ -64,19 +64,10 @@ TAVILY_API_KEY=your_tavily_api_key
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-## **API Endpoints**
+### **API Endpoints**
 
-### **/get_response (POST)**
+#### **/get_response (POST)**
 - Description: Processes the user's query and provides career-related insights along with any relevant visualizations.
-
-### **/get_salary_data (POST)**
-- Description: Returns salary trend visualizations based on job title and company.
-
-### **/get_job_related_data (POST)**
-- Description: Retrieves job market analytics, including trends and skills in demand for specific roles and industries.
-
-### **/get_company_info (POST)**
-- Description: Fetches information about a company, such as employee sentiments, benefits, and company culture.
 
 ## **License**
 
